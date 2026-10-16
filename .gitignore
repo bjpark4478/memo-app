@@ -45,3 +45,7 @@ WORKSHOP_SCENARIO.md
 
 # playwright mcp 산출물 (스냅샷/로그/스크린샷)
 .playwright-mcp/
+
+# playwright 테스트 산출물
+/playwright-report/
+/test-results/
